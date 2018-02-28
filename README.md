@@ -1,2 +1,2 @@
-# FlockClock
-Flock of Clocks
+# Clock Project
+Public version of Clock
